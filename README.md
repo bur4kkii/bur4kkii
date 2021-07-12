@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oie! Sou a Mariana!
 
 <!--
 **wxmariixw/wxmariixw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
