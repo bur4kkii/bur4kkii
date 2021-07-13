@@ -1,4 +1,4 @@
-### Oiii! Eu sou a Mariana Freitas
+### Oiii! Eu sou a Mari
 <div>
   <a href="https://github.com/wxmariixw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wxmariixw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
