@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, meu nome é Mariana e sou estudande de programação, em 2022 irei iniciar a faculdade de <strong>Análise e Desenvolvimento de sistemas na FIAP</strong>, enquanto isso estou estudando por plataformas online como a dio e a Alura, por enquanto estou focando no <strong>Fron-end</strong>, porém pretendo extender meus conhecimentos para o Back-end, no momento eu trabalho fora da área de desenvolvimento, mas sempre aberta a novas oportunidades!.<br>
 </p>
 
 <p align="left">
