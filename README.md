@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaStript</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaStript, Vue</strong>
 </p>
 
 <p align="left">
