@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Mariana e sou estudande de programação, estou no 1 ano de <strong>Análise e Desenvolvimento de sistemas na FIAP</strong>, focando em <strong>Qualidade de Software e Testes automatizados com Cypress.io</strong>, formada em Business Agillity pela Alura e atualmente participando do curso de Inteligência Artificial e Data Science, proporcionado pela parceria entre a Universidade de Chicago e Santander.
+  Olá, meu nome é Mariana e sou estudande de programação, estou no 1 ano de <strong>Análise e Desenvolvimento de sistemas na FIAP</strong>, focando em <strong>Qualidade de Software e Testes automatizados com Cypress.io</strong>, formada em Business Agillity pela Alura e participei também do Hackathon anual da NASA, noqual fomos selecionados para poder concorrer a competição mundial. Atualmente estou participando do curso de Inteligência Artificial e Data Science, proporcionado pela parceria entre a Universidade de Chicago e Santander e do 1# BootCamp GFT de Quality Assurance da DIO.
 </p>
 
 <p align="left">
