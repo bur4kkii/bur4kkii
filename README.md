@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaStript, Cypress.io</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaStript, Cypress.io, python e Ruby</strong>
 </p>
 
 <p align="left">
