@@ -40,10 +40,11 @@ if __name__ == "__main__":
 
 ## Status ✨
 <a href="https://github.com/wxmariixw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wxmariixw&show_icons=true&theme=dracula" width=50%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wxmariixw&show_icons=true&theme=dracula"/>
 </a>
+
 <a href="https://github.com/wxmariixw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxmariixw&layout=compact&theme=dracula" width=50%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxmariixw&layout=compact&theme=dracula"/>
 </a>
 
 [linkedin]: https://www.linkedin.com/in/mariana-freitas-0a8058172/
