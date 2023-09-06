@@ -15,7 +15,7 @@ class Person:
         self.languages = languages
 
 if __name__ == "__main__":
-    me = Person("Mariana", "Back-end development and software tests", ("Python", "JavaScript", "HTML", "CSS", "ruby"))
+    me = Person("Mariana", "Back-end development and software tests", ["Python", "JavaScript", "HTML", "CSS", "ruby"])
     print(me)
 ```
 
