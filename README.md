@@ -1,9 +1,5 @@
 # hi! I'm Mariana Freitas👋
 
-I'm a IT student at FIAP and back-end developer.
-
-Nowdays I'm working at Dione Solutions, as Entry level Back-end Developer and in the final semester in college. 
-
 ## more about me 💻
 <img align="right" width="200" src="https://i.pinimg.com/564x/a6/61/74/a66174d1fa0db9149aa4e84f4e6418c8.jpg" />
 
