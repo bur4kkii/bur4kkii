@@ -1,52 +1,48 @@
-# hi! I'm Mariana Freitas👋
+![](https://komarev.com/ghpvc/?username=bur4kkii&color=006bed)
 
-## more about me 💻
-<img align="right" width="200" src="https://i.pinimg.com/564x/a6/61/74/a66174d1fa0db9149aa4e84f4e6418c8.jpg" />
+## Sobre mim
 
-```python
-class Person:
-    def __init__(self, name, acknowledgements, languages):
-        self.name = name
-        self.acknowledgements = acknowledgements
-        self.languages = languages
+- 🤔 Analista de Qualidade de Software em formação!
+- 🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela FIAP.
+- 💼 Buscando novas oportunidades na área de Qualidade de Software.
+- 🌱 Aprendendo mais sobre automação de testes e2e e testes de API.
 
-if __name__ == "__main__":
-    me = Person("Mariana", "Back-end development and software tests", ["Python", "JavaScript", "HTML", "CSS", "ruby"])
-    print(me)
-```
+## Minhas Skills
 
-## languages & tools ⚙️
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/2048px-Pytest_logo.svg.png"></code>
-<code><img height="30" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3My2BmszB_-h79tQm-zG8Dozb3pWWYsbv_dT88HXTtgU7E3GGP2_tqv9h3P6z_vIZw5s&usqp=CAU"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
+**Aplicações e dados**
 
-## Status ✨
-<a href="https://github.com/wxmariixw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wxmariixw&show_icons=true&theme=dracula"/>
-</a>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<a href="https://github.com/wxmariixw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxmariixw&layout=compact&theme=dracula"/>
-</a>
+**Utilidades**
 
-[linkedin]: https://www.linkedin.com/in/mariana-freitas-0a8058172/
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<br>
+**DevOps**
 
-## Rede sociais
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-👔 [LinkedIn][linkedin]
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+[![card](https://github-readme-stats.vercel.app/api?username=bur4kkii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Mariana%20Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-freitas-qa/)](https://www.linkedin.com/in/mariana-freitas-qa/)
+[![Gmail Badge](https://img.shields.io/badge/-marisftsabreu@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marisftsabreu@gmail.com)](mailto:marisftsabreu@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/wxmariixw?label=follow&style=social)](https://github.com/wxmariixw)
